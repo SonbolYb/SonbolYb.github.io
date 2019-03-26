@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sonbol Yazdanbakhsh"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Machine Learning Researcher"
+  location         : "Canada"
+  employer         : "https://xsensor.com/"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=6p7d014AAAAJ&hl=en"
   email            :
@@ -96,12 +96,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SonbolYb"
+  github           : "SonbolYb"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sonbol-yazdanbakhsh-ph-d-99502735/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
