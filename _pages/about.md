@@ -16,9 +16,11 @@ I am interested in developing machine learning algorithms based on fuzzy logic a
 
 ## Publications
 
-**Preprint and Working papers**
+### Preprint and Working papers
 
 [Multivariate Time Series Classification using Dilated Convolutional Neural Network](https://sonbolyb.github.io/files/multivariate_dilated_conv.pdf)
+**O Yazdanbakhsh**, S Dick
+arXiv preprint arXiv:1905.01697
 
 **Thesis**
 
