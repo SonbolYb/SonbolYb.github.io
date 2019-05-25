@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Machine Learning Researcher"
   location         : "Canada"
-  employer         : "https://xsensor.com/"
+  employer         : "xsensor.com/"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=6p7d014AAAAJ&hl=en"
-  email            : "yazdanba [at] ualberta [dot] ca"
+  email            : "yazdanba [at]a ualberta [dot] ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
