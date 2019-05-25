@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Sonbol Yazdanbakhsh"
   avatar           : "profile.png"
-  bio              : "Machine Learning Researcher"
+  bio              : "Machine Learning Researcher  
+  yazdanba [at] ualberta [dot] ca"
   location         : "Canada"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=6p7d014AAAAJ&hl=en"
-  email            : "yazdanba@ualberta.ca"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
