@@ -15,9 +15,18 @@ I am machine learning researcher and team lead at [Xsensor](https://xsensor.com/
 I am interested in developing machine learning algorithms based on fuzzy logic and deep neural network to have robust and interpretable systems.
 
 ## Publications
+
 **Preprint and Working papers**
 
 [Multivariate Time Series Classification using Dilated Convolutional Neural Network](https://github.com/SonbolYb/SonbolYb.github.io/blob/master/files/multivariate_dilated_conv.pdf)
+
+**Thesis**
+
+**Patents**
+
+**Book Chapters**
+
+**Research Articles**
 
 * **2019**
 
