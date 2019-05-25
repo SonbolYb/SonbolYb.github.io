@@ -18,7 +18,7 @@ I am interested in developing machine learning algorithms based on fuzzy logic a
 
 **Preprint and Working papers**
 
-[Multivariate Time Series Classification using Dilated Convolutional Neural Network](https://github.com/SonbolYb/SonbolYb.github.io/blob/master/files/multivariate_dilated_conv.pdf)
+[Multivariate Time Series Classification using Dilated Convolutional Neural Network](https://SonbolYb.github.io/blob/master/files/multivariate_dilated_conv.pdf)
 
 **Thesis**
 
