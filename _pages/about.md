@@ -18,17 +18,27 @@ I am interested in developing machine learning algorithms based on fuzzy logic a
 
 ### Preprint and Working papers
 
-[Multivariate Time Series Classification using Dilated Convolutional Neural Network](https://sonbolyb.github.io/files/multivariate_dilated_conv.pdf)
-**O Yazdanbakhsh**, S Dick
+[Multivariate Time Series Classification using Dilated Convolutional Neural Network](https://sonbolyb.github.io/files/multivariate_dilated_conv.pdf)  
+**O.Yazdanbakhsh**, S.Dick  
 arXiv preprint arXiv:1905.01697
 
-**Thesis**
+### Thesis
+[Applications of Complex Fuzzy Sets in Time-Series Prediction](https://sonbolyb.github.io/files/YazdanbakhshPoodeh_Omolbanin_201704_PhD.pdf)  
+Outstanding IEEE SMCS Ph.D. Thesis Work on Cybernetics  
+**O.Yazdanbakhsh**  
+Ph.D. thesis, University of Alberta, 2017
 
-**Patents**
+### Patents
+[Bedding System with a CNN Based Machine Vision Process](https://sonbolyb.github.io/files/US_Patent.pdf)  
+**O.YPoodeh**, JA Hogg, I Main  
+US Patent App. 15/679,123
 
-**Book Chapters**
+### Book Chapters
+[Time-series forecasting via complex fuzzy logic](https://sonbolyb.github.io/files/BookChapter.pdf)  
+**O.Yazdanbakhsh**, S.Dick  
+Frontiers of Higher Order Fuzzy Sets, 147-165  
 
-**Research Articles**
+### Research Articles
 
 * **2019**
 
