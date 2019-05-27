@@ -40,8 +40,23 @@ Frontiers of Higher Order Fuzzy Sets, 147-165
 
 ### Research Articles
 
-* **2019**
+#### 2019
+* [FANCFIS: Fast adaptive neuro-complex fuzzy inference system](https://sonbolyb.github.io/files/FANCFIS.pdf)  
+**O.Yazdanbakhsh**, S.Dick  
+International Journal of Approximate Reasoning 105, 417-430
 
+#### 2018
+* [A systematic review of complex fuzzy sets and logic](https://sonbolyb.github.io/files/ReviewPaper.pdf)  
+**O.Yazdanbakhsh**, S.Dick  
+Fuzzy Sets and Systems 338, 1-22
+#### 2017
+* [Forecasting of multivariate time series via complex fuzzy logic](https://sonbolyb.github.io/files/MultivariateTimeSeriesForecasting.pdf)  
+**O.Yazdanbakhsh**, S.Dick  
+IEEE Transactions on Systems, Man, and Cybernetics: Systems 47 (8), 2160-2171
+
+* [An intelligent system for livestock disease surveillance](https://sonbolyb.github.io/files/LiveStockDiseaseSurveilance.pdf)  
+**O.Yazdanbakhsh**, S.Dick   
+Information Sciences 378, 26-47
 ## Awards
 
 1.
