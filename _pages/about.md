@@ -48,7 +48,7 @@ International Journal of Approximate Reasoning 105, 417-430
 #### 2018
 * [A systematic review of complex fuzzy sets and logic](https://sonbolyb.github.io/files/ReviewPaper.pdf)  
 **O.Yazdanbakhsh**, S.Dick  
-Fuzzy Sets and Systems 338, 1-22
+Fuzzy Sets and Systems 338, 1-22   
 #### 2017
 * [Forecasting of multivariate time series via complex fuzzy logic](https://sonbolyb.github.io/files/MultivariateTimeSeriesForecasting.pdf)  
 **O.Yazdanbakhsh**, S.Dick  
@@ -56,7 +56,47 @@ IEEE Transactions on Systems, Man, and Cybernetics: Systems 47 (8), 2160-2171
 
 * [An intelligent system for livestock disease surveillance](https://sonbolyb.github.io/files/LiveStockDiseaseSurveilance.pdf)  
 **O.Yazdanbakhsh**, S.Dick   
-Information Sciences 378, 26-47
+Information Sciences 378, 26-47   
+#### 2016
+* [On deterministic chaos in software reliability growth models](https://sonbolyb.github.io/files/deterministic_software_reliability.pdf)   
+**O.Yazdanbakhsh**, S.Dick, I.Reay, E.Mace   
+Applied Soft Computing 49, 1256-1269   
+
+* [ANCFIS-ELM: a machine learning algorithm based on complex fuzzy sets](https://sonbolyb.github.io/files/ANCFISELM.pdf)  
+**O.Yazdanbakhsh**, S.Dick   
+2016 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2007-2013
+
+* [On Pythagorean and Complex Fuzzy Set Operations](https://sonbolyb.github.io/files/pythogorean.pdf)   
+S.Dick, R.Yager, **O.Yazdanbakhsh**   
+IEEE Transactions on Fuzzy Systems 24 (5)    
+
+#### 2015
+
+* [Multi-variate timeseries forecasting using complex fuzzy logic](https://sonbolyb.github.io/files/multivariate_nafips.pdf)   
+**O.Yazdanbakhsh**, S.Dick **[Best Student Paper Award]**   
+2015 Annual Conference of the North American Fuzzy Information Processing Society (NAFIPS)   
+
+#### 2014
+* [An empirical investigation of Web session workloads: Can self-similarity be explained by deterministic chaos?](https://sonbolyb.github.io/files/websession.pdf)   
+S.Dick, **O.Yazdanbaksh**, X.Tang, T.Huynh, J.Miller   
+Information Processing & Management 50 (1), 41-53    
+
+#### 2013
+* [Predicting solar power output using complex fuzzy logic](https://sonbolyb.github.io/files/solar_paper.pdf)   
+**O.Yazdanbaksh**, A.Krahn, S.Dick     
+2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)
+
+#### 2012 
+* [Synchronization of unified chaotic system by sliding mode/mixed H 2/H∞ control](https://sonbolyb.github.io/files/Yazdanbakhsh2012_Article_SynchronizationOfUnifiedChaoti.pdf)    
+**O.Yazdanbakhsh**, S.Hosseinnia, J.Askari   
+Nonlinear Dynamics 67 (3), 1903-1912    
+#### 2010
+* [Synchronization of unified chaotic system by robust H2/sliding mode control](https://sonbolyb.github.io/files/master_paper1.pdf)    
+**O.Yazdanbakhsh**, S.Hosseinnia    
+2010 18th Iranian Conference on Electrical Engineering, 647-65
+
+
+
 ## Awards
 
 1.
