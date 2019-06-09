@@ -49,6 +49,7 @@ International Journal of Approximate Reasoning 105, 417-430
 * [A systematic review of complex fuzzy sets and logic](https://sonbolyb.github.io/files/ReviewPaper.pdf)  
 **O.Yazdanbakhsh**, S.Dick  
 Fuzzy Sets and Systems 338, 1-22   
+
 #### 2017
 * [Forecasting of multivariate time series via complex fuzzy logic](https://sonbolyb.github.io/files/MultivariateTimeSeriesForecasting.pdf)  
 **O.Yazdanbakhsh**, S.Dick  
@@ -56,7 +57,9 @@ IEEE Transactions on Systems, Man, and Cybernetics: Systems 47 (8), 2160-2171
 
 * [An intelligent system for livestock disease surveillance](https://sonbolyb.github.io/files/LiveStockDiseaseSurveilance.pdf)  
 **O.Yazdanbakhsh**, S.Dick   
-Information Sciences 378, 26-47   
+Information Sciences 378, 26-47
+
+
 #### 2016
 * [On deterministic chaos in software reliability growth models](https://sonbolyb.github.io/files/deterministic_software_reliability.pdf)   
 **O.Yazdanbakhsh**, S.Dick, I.Reay, E.Mace   
@@ -89,7 +92,8 @@ Information Processing & Management 50 (1), 41-53
 #### 2012 
 * [Synchronization of unified chaotic system by sliding mode/mixed H 2/H∞ control](https://sonbolyb.github.io/files/Yazdanbakhsh2012_Article_SynchronizationOfUnifiedChaoti.pdf)    
 **O.Yazdanbakhsh**, S.Hosseinnia, J.Askari   
-Nonlinear Dynamics 67 (3), 1903-1912    
+Nonlinear Dynamics 67 (3), 1903-1912  
+
 #### 2010
 * [Synchronization of unified chaotic system by robust H2/sliding mode control](https://sonbolyb.github.io/files/master_paper1.pdf)    
 **O.Yazdanbakhsh**, S.Hosseinnia    
