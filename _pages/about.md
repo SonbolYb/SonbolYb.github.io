@@ -103,8 +103,12 @@ Nonlinear Dynamics 67 (3), 1903-1912
 
 ## Awards
 
-1.
+* Outstanding Ph.D. Thesis Work: Outstanding SMCS Ph.D. Thesis Work on Cybernetics - IEEE SMCS Thesis Grant Initiative, 2017
+* Travel Award: Academic Travel Award, FGSR, University of Alberta, 2016 
+* Best Student Paper Award: Best Student Paper Award at the 34th Annual Conference of North American Fuzzy Information Processing Society (NAFIPS 2015), 2015
+* Graduate Scholarship: Queen Elizabeth II Graduate Scholarship – Doctoral level, 2015
+* Best Teaching Assistant Award: University of Alberta Graduate Student Teaching Award, 2015
+* Doctoral Recruitment Scholarship: University of Alberta Doctoral Recruitment Scholarship attracting the best and brightest students to the University of Alberta, 2012
 
-## CV
 
-1.
+
