@@ -95,7 +95,7 @@ S.Dick, **O.Yazdanbaksh**, X.Tang, T.Huynh, J.Miller, Information Processing & M
 * Doctoral Recruitment Scholarship: University of Alberta Doctoral Recruitment Scholarship attracting the best and brightest students to the University of Alberta, 2012
 
 ## Teaching 
-#### University of Alberta
+### University of Alberta
 * Programming for Electrical Engineering (C, C++)
 * Embedded System Design    
 * Discrete Time Signals and Systems    
