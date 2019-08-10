@@ -18,25 +18,25 @@ In my spare time, I work on two main projects: 1. Developing deep-neuro fuzzy ne
 
 ## Publications
 
-### Preprint and Working papers
+### _Preprint and Working papers_
 
 [Multivariate Time Series Classification using Dilated Convolutional Neural Network](https://sonbolyb.github.io/files/multivariate_dilated_conv.pdf)  
 **O.Yazdanbakhsh**, S.Dick, arXiv preprint arXiv:1905.01697
 
-### Thesis
+### _Thesis_
 [Applications of Complex Fuzzy Sets in Time-Series Prediction](https://sonbolyb.github.io/files/YazdanbakhshPoodeh_Omolbanin_201704_PhD.pdf)  
 **Outstanding IEEE SMCS Ph.D. Thesis Work on Cybernetics** 
 **O.Yazdanbakhsh**, Ph.D. thesis, University of Alberta, 2017
 
-### Patents
+### _Patents_
 [Bedding System with a CNN Based Machine Vision Process](https://sonbolyb.github.io/files/US_Patent.pdf)  
 **O.YPoodeh**, JA Hogg, I Main, US Patent App. 15/679,123
 
-### Book Chapters
+### _Book Chapters_
 [Time-series forecasting via complex fuzzy logic](https://sonbolyb.github.io/files/BookChapter.pdf)  
 **O.Yazdanbakhsh**, S.Dick, Frontiers of Higher Order Fuzzy Sets, 147-165  
 
-### Research Articles
+### _Research Articles_
 
 ### 2019
 * [FANCFIS: Fast adaptive neuro-complex fuzzy inference system](https://sonbolyb.github.io/files/FANCFIS.pdf)  
