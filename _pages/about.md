@@ -14,7 +14,7 @@ I am machine learning researcher and team lead at [Xsensor](https://xsensor.com/
 
 I am interested in developing machine learning algorithms based on fuzzy logic and deep neural network to have robust and interpretable systems. 
 
-In my spare time, I work on two main projects: 1. Developing deep-neuro fuzzy network for image analysis 2. Using fuzzy logic to design robust deep neural network against adversarial examples 
+In my spare time, I work on two main projects: 1. Developing deep-neuro fuzzy network for image analysis 2. Using fuzzy logic to design robust deep neural network against adversarial examples. 
 
 ## Publications
 
