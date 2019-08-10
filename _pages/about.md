@@ -2,7 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-author_profile: (https://sonbolyb.github.io/images/twitter_image.jpg)
+author_profile:true
 redirect_from: 
   - /about/
   - /about.html
