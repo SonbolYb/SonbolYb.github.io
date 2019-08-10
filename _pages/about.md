@@ -53,7 +53,6 @@ In my spare time, I work on two main projects: 1. Developing deep-neuro fuzzy ne
 * [An intelligent system for livestock disease surveillance](https://sonbolyb.github.io/files/LiveStockDiseaseSurveilance.pdf)  
 **O.Yazdanbakhsh**, S.Dick, Information Sciences 378, 26-47
 
-
 ### 2016
 * [On deterministic chaos in software reliability growth models](https://sonbolyb.github.io/files/deterministic_software_reliability.pdf)   
 **O.Yazdanbakhsh**, S.Dick, I.Reay, E.Mace, Applied Soft Computing 49, 1256-1269   
@@ -65,7 +64,6 @@ In my spare time, I work on two main projects: 1. Developing deep-neuro fuzzy ne
 S.Dick, R.Yager, **O.Yazdanbakhsh**, IEEE Transactions on Fuzzy Systems 24 (5)    
 
 ### 2015
-
 * [Multi-variate timeseries forecasting using complex fuzzy logic](https://sonbolyb.github.io/files/multivariate_nafips.pdf)   
 **O.Yazdanbakhsh**, S.Dick **[Best Student Paper Award]**, 2015 Annual Conference of the North American Fuzzy Information Processing Society (NAFIPS)   
 
