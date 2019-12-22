@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am machine learning researcher and team lead at [Xsensor](https://xsensor.com/) developing deep neural networks and machine learning algorithms for images and signals extracted from pressure sensors. Previously, I earned PhD in Software Engineering and Intelligent Systems from [University of Alberta](https://www.ualberta.ca/electrical-computer-engineering/) under supervision of [Dr. Scott Dick](https://www.ualberta.ca/engineering/faculty/scott-dick). During my PhD, I have worked on designing complex neuro-fuzzy systems for timeseries prediction. My PhD dissertaion received Outstanding [IEEE SMCS](http://thesisgrantinitiative.ieeesmc.hu/about/) Ph.D. Thesis Work on Cybernetics.
+I am machine learning researcher at [Zebra](https://www.zebra.com/us/en.html). Previously, I worked as machine learning researcher and team lead at [Xsensor](https://xsensor.com/) developing deep neural networks and machine learning algorithms for images and signals extracted from pressure sensors. I earned PhD in Software Engineering and Intelligent Systems from [University of Alberta](https://www.ualberta.ca/electrical-computer-engineering/) under supervision of [Dr. Scott Dick](https://www.ualberta.ca/engineering/faculty/scott-dick). During my PhD, I have worked on designing complex neuro-fuzzy systems for timeseries prediction. My PhD dissertaion received Outstanding [IEEE SMCS](http://thesisgrantinitiative.ieeesmc.hu/about/) Ph.D. Thesis Work on Cybernetics.
 
 ## Research Interest
 
