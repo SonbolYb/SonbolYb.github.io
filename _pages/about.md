@@ -19,7 +19,7 @@ In my spare time, I work on two main projects: 1. Developing deep-neuro fuzzy ne
 ## Publications
 
 ### _Preprint and Working papers_
-* [A Deep neuro-fuzzy network for image classification]()
+* [A Deep neuro-fuzzy network for image classification](https://sonbolyb.github.io/files/deep-fuzzy-sonbol_arxiv_version.pdf )  
 **O.Yazdanbakhsh**, S.Dick, Wiml workshop 2019, along with NeurIPS 2019, Vancouver, Canada
 * [Multivariate Time Series Classification using Dilated Convolutional Neural Network](https://sonbolyb.github.io/files/multivariate_dilated_conv.pdf)  
 **O.Yazdanbakhsh**, S.Dick, Wiml workshop 2019, along with NeurIPS 2019, Vancouver, Canada, arXiv preprint arXiv:1905.01697
